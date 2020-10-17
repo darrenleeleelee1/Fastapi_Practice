@@ -1,5 +1,5 @@
 # Installation
-- Clone Repository
+- Clone this Repository
 
   ```git clone https://github.com/darrenleeleelee1/Fastapi_Practice.git ```
 - Requirment
