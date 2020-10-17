@@ -1,6 +1,10 @@
 # Installation
-- Python=3.8
-- Anaconda=4.8.5
+- Clone Repository
+
+  ```git clone https://github.com/darrenleeleelee1/Fastapi_Practice.git ```
+- Requirment
+  - Python=3.8
+  - Anaconda=4.8.5
 # Getting Started
 - Create Virtual Environment
   
