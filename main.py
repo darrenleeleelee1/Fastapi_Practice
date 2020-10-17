@@ -21,7 +21,7 @@ app = FastAPI()
 
 @app.get("/")
 async def main():
-    return FileResponse(r"C:\Users\Darren\Downloads\photos\Darren.jpg")
+    return FileResponse(r"misdo.jpg")
 
 
 @app.post("/tmp/")
