@@ -14,7 +14,7 @@
   ```activate fastapi_env```
 - Install Dependency
   
-  ````pip install -r requirement.txt ```
+  ```pip install -r requirement.txt ```
 
 - Start App
   
