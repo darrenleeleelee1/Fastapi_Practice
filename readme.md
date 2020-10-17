@@ -6,18 +6,18 @@
   - Python=3.8
   - Anaconda=4.8.5
 # Getting Started
-Create Virtual Environment
+**Create Virtual Environment**
   
   ```conda create --name fastapi_env python==3.8```
 
-Activate Virtual Enviroment
+**Activate Virtual Enviroment**
   
   ```activate fastapi_env```
 
-Install Dependency
+**Install Dependency**
   
   ```pip install -r requirement.txt ```
 
-Start App
+**Start App**
   
   ```uvicorn main:app --reload```
