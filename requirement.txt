@@ -3,3 +3,4 @@ typer
 uvicorn
 aiofiles
 python-multipart
+numpy
