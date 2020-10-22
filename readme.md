@@ -21,5 +21,11 @@
 **Start App**
   
   ```uvicorn main:app --reload```
-
-
+# HTTP Verbs
+# HTTP.GET
+* go to 127.0.0.1:8000 to get the image
+# HTTP.POST
+* Open cmd
+  ```
+  curl -X POST "http://127.0.0.1:8000/uploadfile/" -H  "Content-Type: multipart/form-data" -F "file=@your_file_name;type=image/jpeg"
+  ```
